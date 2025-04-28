@@ -49,14 +49,14 @@
 
 ## Lista de Piromancia
 
-- [ ] **Fireball** - Rosabeth de Melfia
-- [ ] **Fire Orb** - Rosabeth de Melfia
-- [ ] **Great Fireball** - Encontrado em Brightstone Cove Tseldora
+- [x] **Fireball** - Rosabeth de Melfia
+- [x] **Fire Orb** - Rosabeth de Melfia
+- [x] **Great Fireball** - Encontrado em Brightstone Cove Tseldora
 - [ ] **Great Chaos Fireball** - Recompensa do pacto Brotherhood of Blood
-- [ ] **Firestorm** - Titchy Gren (Undead Purgatory)
-- [ ] **Fire Tempest** - Drop do Guardian Dragon em Dragon Aerie
+- [x] **Firestorm** - Titchy Gren (Undead Purgatory)
+- [x] **Fire Tempest** - Drop do Guardian Dragon em Dragon Aerie
 - [ ] **Chaos Storm** - Encontrado no Iron Keep
-- [ ] **Combustion** - Rosabeth de Melfia
+- [x] **Combustion** - Rosabeth de Melfia
 - [ ] **Great Combustion** - Titchy Gren (Undead Purgatory)
 - [ ] **Fire Whip** - Titchy Gren (Undead Purgatory)
 - [ ] **Poison Mist** - Rosabeth de Melfia
