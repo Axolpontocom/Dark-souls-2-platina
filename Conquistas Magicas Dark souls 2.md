@@ -102,7 +102,7 @@
 - [ ] **Serpente de Fogo** - DLC Coroa do Rei Afundado
 - [ ] **Dança de Fogo** - DLC Coroa do Rei Afundado
 
-## Lista de Sortilégios (Hexes)
+## Lista de Sortilégios
 
 - [ ] **Orbe Negro** - Felkin, Straid, Grandahl
 - [ ] **Granizo Negro** - Felkin, Straid, Grandahl
