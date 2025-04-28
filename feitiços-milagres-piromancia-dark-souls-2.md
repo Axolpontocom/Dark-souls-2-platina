@@ -10,7 +10,7 @@
 
 ## Lista de Feitiços de Magia
 
-- [x] **Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
+- [ ] **Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
 - [ ] **Great Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
 - [ ] **Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
 - [ ] **Great Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
