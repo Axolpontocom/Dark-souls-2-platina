@@ -3,13 +3,13 @@
 
 <!-- TOC -->
 - [Feitiços de Dark Souls II](#feitiços-de-dark-souls-ii)
-  - [Lista de Feitiços de Magia](#lista-de-feitiços-de-magia)
+  - [Lista de Feitiços de Magia](#lista-de-feitiços)
   - [Lista de Milagres](#lista-de-milagres)
   - [Lista de Piromancia](#lista-de-piromancia)
   - [Lista de Sortilégios](#lista-de-sortilégios)
 <!-- /TOC -->
 
-## Lista de Feitiços de Magia
+## Lista de Feitiços
 
 - [ ] **Flecha de Almas** - Carhillion do Aprisco (Majula após No-Man's Wharf)
 - [ ] **Flecha de Almas Grande** - Carhillion do Aprisco (Majula)
