@@ -11,13 +11,13 @@
 
 ## Lista de Feitiços de Magia
 
-- [ ] **Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
-- [ ] **Great Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
-- [ ] **Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
-- [ ] **Great Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
-- [ ] **Homing Soul Arrow** - Straid de Olaphis
+- [x] **Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
+- [x] **Great Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
+- [x] **Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
+- [x] **Great Heavy Soul Arrow** - Carhillion de Fold, Magerold de Lanafir
+- [x] **Homing Soul Arrow** - Straid de Olaphis
 - [ ] **Heavy Homing Soul Arrow** - Straid de Olaphis
-- [ ] **Soul Spear** - Straid de Olaphis
+- [x] **Soul Spear** - Straid de Olaphis
 - [ ] **Crystal Soul Spear** - Troca com alma de chefe com Straid de Olaphis
 - [ ] **Soul Greatsword** - Straid de Olaphis
 - [ ] **Soul Vortex** - Straid de Olaphis
@@ -30,22 +30,22 @@
 - [ ] **Heal** - Licia de Lindeldt
 - [ ] **Med Heal** - Licia de Lindeldt
 - [ ] **Great Heal Excerpt** - Licia de Lindeldt
-- [ ] **Great Heal** - Cromwell the Pardoner (Grave of Saints)
+- [x] **Great Heal** - Cromwell the Pardoner (Grave of Saints)
 - [ ] **Replenishment** - Licia de Lindeldt
-- [ ] **Resplendent Life** - Licia de Lindeldt
+- [x] **Resplendent Life** - Licia de Lindeldt
 - [ ] **Bountiful Sunlight** - Recompensa do pacto Blue Sentinels
 - [ ] **Caressing Prayer** - Licia de Lindeldt
 - [ ] **Force** - Licia de Lindeldt
 - [ ] **Wrath of the Gods** - Cromwell the Pardoner (Grave of Saints)
-- [ ] **Emit Force** - Licia de Lindeldt
+- [x] **Emit Force** - Licia de Lindeldt
 - [ ] **Heavenly Thunder** - Licia de Lindeldt
 - [ ] **Soul Appease** - Cromwell the Pardoner (Grave of Saints)
 - [ ] **Magic Barrier** - Licia de Lindeldt
-- [ ] **Great Magic Barrier** - Cromwell the Pardoner (Grave of Saints)
+- [x] **Great Magic Barrier** - Cromwell the Pardoner (Grave of Saints)
 - [ ] **Homeward** - Licia de Lindeldt
 - [ ] **Guidance** - Licia de Lindeldt
 - [ ] **Sacred Oath** - Cromwell the Pardoner (Grave of Saints)
-- [ ] **Sunlight Blade** - Recompensa do pacto Heirs
+- [x] **Sunlight Blade** - Recompensa do pacto Heirs
 
 ## Lista de Piromancia
 
@@ -57,22 +57,22 @@
 - [x] **Fire Tempest** - Drop do Guardian Dragon em Dragon Aerie
 - [ ] **Chaos Storm** - Encontrado no Iron Keep
 - [x] **Combustion** - Rosabeth de Melfia
-- [ ] **Great Combustion** - Titchy Gren (Undead Purgatory)
-- [ ] **Fire Whip** - Titchy Gren (Undead Purgatory)
-- [ ] **Poison Mist** - Rosabeth de Melfia
-- [ ] **Toxic Mist** - Troca com alma de chefe com Straid de Olaphis
-- [ ] **Acid Surge** - Troca com alma de chefe com Straid de Olaphis
-- [ ] **Lingering Flame** - Straid de Olaphis
-- [ ] **Flame Swathe** - Straid de Olaphis
+- [x] **Great Combustion** - Titchy Gren (Undead Purgatory)
+- [x] **Fire Whip** - Titchy Gren (Undead Purgatory)
+- [x] **Poison Mist** - Rosabeth de Melfia
+- [x] **Toxic Mist** - Troca com alma de chefe com Straid de Olaphis
+- [x] **Acid Surge** - Troca com alma de chefe com Straid de Olaphis
+- [x] **Lingering Flame** - Straid de Olaphis
+- [x] **Flame Swathe** - Straid de Olaphis
 - [ ] **Forbidden Sun** - Recompensa de missão com Royal Sorcerer Navlaan
-- [ ] **Flame Weapon** - Troca com alma de chefe com Straid de Olaphis
-- [ ] **Flash Sweat** - Rosabeth de Melfia
-- [ ] **Iron Flesh** - Rosabeth de Melfia
-- [ ] **Warmth** - Grave Warden Agdayne (Undead Crypt)
-- [ ] **Immolation** - Encontrado no Iron Keep (Belfry Sol)
-- [ ] **Outcry** - DLC Crown of the Old Iron King
-- [ ] **Dance of Fire** - DLC Crown of the Old Iron King
-- [ ] **Fire Snake** - DLC Crown of the Old Iron King
+- [x] **Flame Weapon** - Troca com alma de chefe com Straid de Olaphis
+- [x] **Flash Sweat** - Rosabeth de Melfia
+- [x] **Iron Flesh** - Rosabeth de Melfia
+- [x] **Warmth** - Grave Warden Agdayne (Undead Crypt)
+- [x] **Immolation** - Encontrado no Iron Keep (Belfry Sol)
+- [x] **Outcry** - DLC Crown of the Old Iron King
+- [x] **Dance of Fire** - DLC Crown of the Old Iron King
+- [x] **Fire Snake** - DLC Crown of the Old Iron King
 
 ## Lista do Mestre dos Sortilégios
 
