@@ -1,9 +1,9 @@
 
-# Feitiços de Dark Souls II
+# Magias de Dark Souls II
 
 <!-- TOC -->
 - [Feitiços de Dark Souls II](#feitiços-de-dark-souls-ii)
-  - [Lista de Feitiços de Magia](#lista-de-feitiços)
+  - [Lista de Feitiços](#lista-de-feitiços)
   - [Lista de Milagres](#lista-de-milagres)
   - [Lista de Piromancia](#lista-de-piromancia)
   - [Lista de Sortilégios](#lista-de-sortilégios)
