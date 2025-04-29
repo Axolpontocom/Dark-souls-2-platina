@@ -11,51 +11,51 @@
 
 ## Lista de Feitiços
 
-- [ ] **Flecha de Almas** - Carhillion do Aprisco (Majula após No-Man's Wharf)
-- [ ] **Flecha de Almas Grande** - Carhillion do Aprisco (Majula)
-- [ ] **Flecha de Almas Pesada** - Carhillion do Aprisco (Majula)
-- [ ] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco (Majula)
-- [ ] **Flecha de Almas Guiada** - Carhillion do Aprisco (Majula)
-- [ ] **Flecha de Almas Guiada Pesada** - Carhillion do Aprisco (Majula)
-- [ ] **Massa de Almas Guiada** - Carhillion do Aprisco (Majula)
-- [ ] **Massa de Almas de Cristal Guiada** - Straid de Olaphis (Torre de Heide)
-- [ ] **Lança de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Onda de Choque** - Carhillion do Aprisco (Majula)
-- [ ] **Barragem de Lanças de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Chuva de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Espada Grande de Almas** - Carhillion do Aprisco (Majula)
-- [ ] **Vórtice de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Raio de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Gêiser de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Arma Mágica** - Carhillion do Aprisco (Majula)
-- [ ] **Arma Mágica Grande** - Carhillion do Aprisco (Majula)
-- [ ] **Arma Mágica de Cristal** - Straid de Olaphis (Torre de Heide)
-- [ ] **Escudo Mágico Forte** - Carhillion do Aprisco (Majula)
-- [ ] **Anseio** - Straid de Olaphis (Torre de Heide)
-- [ ] **Silêncio** - Carhillion do Aprisco (Majula)
-- [ ] **Controle de Queda** - Carhillion do Aprisco (Majula)
-- [ ] **Arma Oculta** - Carhillion do Aprisco (Majula)
-- [ ] **Reparar** - Carhillion do Aprisco (Majula)
-- [ ] **Conjurar Luz** - Carhillion do Aprisco (Majula)
-- [ ] **Camaleão** - Carhillion do Aprisco (Majula)
-- [ ] **Liberar Magia** - Straid de Olaphis (Torre de Heide)
-- [ ] **Lampejo de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Concentração de Almas** - Straid de Olaphis (Torre de Heide)
-- [ ] **Lança de Almas de Cristal** - Straid de Olaphis (Torre de Heide)
+- [ ] **Flecha de Almas** - Melentia, Carhillion do Aprisco, Magerold de Lanafir
+- [ ] **Flecha de Almas Grande** - Carhillion do Aprisco, Magerold de Lanafir, Floresta dos Gigantes Caídos
+- [ ] **Flecha de Almas Pesada** - Carhillion do Aprisco, Magerold de Lanafir
+- [ ] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco, Magerold de Lanafir, Pico Terroso Central
+- [ ] **Flecha de Almas Guiada** - Straid de Olaphis, Armeira Ornifex.
+- [ ] **Flecha de Almas Guiada Pesada** - Straid de Olaphis
+- [ ] **Massa de Almas Guiada** - Armeira Ornifex, Bosques Sombrios.	
+- [ ] **Massa de Almas de Cristal Guiada** - Santuário de Amana depois da fogueira do Lugar de descanso de Rhoy , nas costas em um corpo após os magos.
+- [ ] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
+- [ ] **Onda de Choque** - Carhillion do Aprisco
+- [ ] **Barragem de Lanças de Almas** - Carhillion do Aprisco
+- [ ] **Chuva de Almas** - Straid de Olaphis 
+- [ ] **Espada Grande de Almas** - Castelo de Drangleic
+- [ ] **Vórtice de Almas** - Guardião da Sepultura Agdayne, O Fosso, Caverna da Pedra Luzente de Tseldora
+- [ ] **Raio de Almas** - Castelo de Drangleic
+- [ ] **Gêiser de Almas** - Fortaleza de Aldia
+- [ ] **Arma Mágica** - Carhillion do Aprisco
+- [ ] **Arma Mágica Grande** - Companhia dos Campiões Rank 1 recompensa, Feitiçeiro Real Navlaan, Ravina Negra
+- [ ] **Arma Mágica de Cristal** - Santuário do Dragão
+- [ ] **Escudo Mágico Forte** - Feitiçeiro Real Navlaan, Castelo Drangleic, Straid de Olaphis
+- [ ] **Anseio** - Carhillion do Aprisco
+- [ ] **Silêncio** - Caminho do  Azul Rank 2 recompesa, Bastilha Perdida(Muro ilusório da Sala do Chefe Sentinela da Ruína)
+- [ ] **Controle de Queda** - Armeira Ornifex, Magerold de Lanafir
+- [ ] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompensa
+- [ ] **Reparar** - Santuário do Inverno
+- [ ] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
+- [ ] **Camaleão** - Vale da Colheita
+- [ ] **Liberar Magia** - Feitiçeiro Real Navlaan
+- [ ] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
+- [ ] **Foco de Almas** -  DLC Coroa do Rei Afundado
+- [ ] **Lança de Almas de Cristal** - Straid de Olaphis
 
 ## Lista de Milagres
 
-- [ ] **Cura** - Licia de Lindeldt, Bruxa Melentia (Majula)
-- [ ] **Cura Média** - Licia de Lindeldt (Majula)
-- [ ] **Trecho de Cura Avançada** - Licia de Lindeldt (Majula)
-- [ ] **Cura Avançada** - Irithyll do Vale Boreal
-- [ ] **Luz Solar Aliviante** - Straid de Olaphis (Torre de Heide)
-- [ ] **Restauração** - Licia de Lindeldt (Majula)
-- [ ] **Vida Resplandecente** - Straid de Olaphis (Torre de Heide)
-- [ ] **Oração de Carinho** - Straid de Olaphis (Torre de Heide)
-- [ ] **Força** - Licia de Lindeldt (Majula)
-- [ ] **Emitir Força** - Licia de Lindeldt (Majula)
-- [ ] **Trovão Celestial** - Straid de Olaphis (Torre de Heide)
+- [ ] **Cura** - Lícia de Lindeldt, Bruxa Mercadora Melentia, Milagre Inicial para o Clérigo.
+- [ ] **Cura Média** - Lícia de Lindeldt
+- [ ] **Trecho de Cura Avançada** - Lícia de Lindeldt
+- [ ] **Cura Avançada** - Cromwell, o Perdoador e no Túmulo dos Santos
+- [ ] **Luz Solar Aliviante** - Adquirido de Lícia de Lindeldt depois de invadi-la
+- [ ] **Restauração** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [ ] **Vida Resplandecente** -  Licia de Lindeldt e Straid de Olaphis
+- [ ] **Oração de Carinho** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [ ] **Força** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [ ] **Emitir Força** - Sentinela Azul Targray, Cromwell, o Perdoador e Cais de Ninguém.
+- [ ] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
 - [ ] **Lança de Raio** - Licia de Lindeldt (Majula)
 - [ ] **Lança de Raio Grande** - Straid de Olaphis (Torre de Heide)
 - [ ] **Lança de Luz Solar** - Recompensa do pacto Herdeiros do Sol
@@ -70,8 +70,8 @@
 - [ ] **Lâmina de Luz Solar** - Straid de Olaphis (Torre de Heide)
 - [ ] **Negação** - Straid de Olaphis (Torre de Heide)
 - [ ] **Lança Fragmentável de Raio** - Straid de Olaphis (Torre de Heide)
-- [ ] **Ira dos Deuses** - Capital Profanada
-- [ ] **Luz Solar Abundante** - Straid de Olaphis (Torre de Heide)
+- [ ] **Ira dos Deuses** - Adquirido de Sentinelas Azuis(Classificação 2), Chanceler Wellager no NG++ por 8.200 almas.
+- [ ] **Luz Solar Abundante** - Adquirido de Sentinelas Azuis (Classificação 3), Chanceler Wellager no NG++ por 11.000 almas.
 - [ ] **Lança da Luz Solar** - Recompensa do pacto Herdeiros do Sol
 - [ ] **Raio Cegante** - Straid de Olaphis (Torre de Heide)
 
