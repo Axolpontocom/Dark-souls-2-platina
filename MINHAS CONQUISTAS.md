@@ -45,25 +45,25 @@
 
 ## Lista de Milagres
 
-- [ ] **Cura** - Lícia de Lindeldt, Bruxa Mercadora Melentia, Milagre Inicial para o Clérigo.
-- [ ] **Cura Média** - Lícia de Lindeldt
-- [ ] **Trecho de Cura Avançada** - Lícia de Lindeldt
+- [x] **Cura** - Lícia de Lindeldt, Bruxa Mercadora Melentia, Milagre Inicial para o Clérigo.
+- [x] **Cura Média** - Lícia de Lindeldt
+- [x] **Trecho de Cura Avançada** - Lícia de Lindeldt
 - [x] **Cura Avançada** - Cromwell, o Perdoador e no Túmulo dos Santos
 - [ ] **Luz Solar Aliviante** - Adquirido de Lícia de Lindeldt depois de invadi-la
-- [ ] **Restauração** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [x] **Restauração** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [x] **Vida Resplandecente** -  Licia de Lindeldt e Straid de Olaphis
-- [ ] **Oração de Carinho** - Lícia de Lindeldt e Cromwell, o Perdoador
-- [ ] **Força** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [x] **Oração de Carinho** - Lícia de Lindeldt e Cromwell, o Perdoador
+- [x] **Força** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [x] **Emitir Força** - Sentinela Azul Targray, Cromwell, o Perdoador e Cais de Ninguém.
 - [ ] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
-- [ ] **Lança de Raio** - Licia de Lindeldt e em Pico Terroso
+- [x] **Lança de Raio** - Licia de Lindeldt e em Pico Terroso
 - [x] **Lança de Raio Grande** - Straid de Olaphis após a obtenção do Anel do Rei, O Poço e na Cripta dos Mortos-Vivos.
 - [ ] **Lança de Luz Solar** - Pacto Herdeiros do Sol Rank 3 recompensa
 - [ ] **Apaziguar a Alma** - Comerciante de pedras Chloanne e Guardião do túmulo Agdayne
 - [ ] **Barreira Mágica** - Chefe de Vengarl e Felkin, o Pária.
 - [x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
-- [ ] **Regresso** - Licia de Lindeldt 
-- [ ] **Orientação** - Licia de Lindeldt 
+- [x] **Regresso** - Licia de Lindeldt 
+- [x] **Orientação** - Licia de Lindeldt 
 - [x] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Revelar** - Straid de Olaphis
 - [ ] **Perseverança** - Cromwell, o Perdoador
