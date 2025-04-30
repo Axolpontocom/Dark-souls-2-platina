@@ -37,11 +37,11 @@
 - [ ] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompens
 - [x]  **Reparar** - Santuário do Inverno
 - [x] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
-- [ ] **Camaleão** - Vale da Colheita
+- [x] **Camaleão** - Vale da Colheita
 - [ ] **Liberar Magia** - Feitiçeiro Real Navlaan
 - [x] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
 - [x] **Foco de Almas** -  DLC Coroa do Rei Afundado
-- [ ] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Milagres
 
