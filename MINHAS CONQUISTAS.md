@@ -16,13 +16,13 @@
 - [x] **Flecha de Almas Pesada** - Carhillion do Aprisco, Magerold de Lanafir
 - [x] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco, Magerold de Lanafir, Pico Terroso Central
 - [x] **Flecha de Almas Guiada** - Straid de Olaphis, Armeira Ornifex.
-- [ ] **Flecha de Almas Guiada Pesada** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Flecha de Almas Guiada Pesada** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Massa de Almas Guiada** - Armeira Ornifex, Bosques Sombrios.	
 - [ ] **Massa de Almas de Cristal Guiada** - Santuário de Amana depois da fogueira do Lugar de descanso de Rhoy , nas costas em um corpo após os magos.
 - [x] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
 - [x] **Onda de Choque** - Carhillion do Aprisco
 - [x] **Barragem de Lanças de Almas** - Carhillion do Aprisco
-- [ ] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS
+- [x] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS
 - [x] **Espada Grande de Almas** - Castelo de Drangleic
 - [x] **Vórtice de Almas** - Guardião da Sepultura Agdayne, O Fosso, Caverna da Pedra Luzente de Tseldora
 - [x] **Raio de Almas** - Castelo de Drangleic
@@ -64,7 +64,7 @@
 - [x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
 - [ ] **Regresso** - Licia de Lindeldt 
 - [ ] **Orientação** - Licia de Lindeldt 
-- [ ] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Revelar** - Straid de Olaphis
 - [ ] **Perseverança** - Cromwell, o Perdoador
 - [x] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
