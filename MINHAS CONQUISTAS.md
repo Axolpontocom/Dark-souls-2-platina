@@ -48,82 +48,82 @@
 - [ ] **Cura** - Lícia de Lindeldt, Bruxa Mercadora Melentia, Milagre Inicial para o Clérigo.
 - [ ] **Cura Média** - Lícia de Lindeldt
 - [ ] **Trecho de Cura Avançada** - Lícia de Lindeldt
-- [ ] **Cura Avançada** - Cromwell, o Perdoador e no Túmulo dos Santos
+- [x] **Cura Avançada** - Cromwell, o Perdoador e no Túmulo dos Santos
 - [ ] **Luz Solar Aliviante** - Adquirido de Lícia de Lindeldt depois de invadi-la
 - [ ] **Restauração** - Lícia de Lindeldt e Cromwell, o Perdoador
-- [ ] **Vida Resplandecente** -  Licia de Lindeldt e Straid de Olaphis
+- [x] **Vida Resplandecente** -  Licia de Lindeldt e Straid de Olaphis
 - [ ] **Oração de Carinho** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [ ] **Força** - Lícia de Lindeldt e Cromwell, o Perdoador
-- [ ] **Emitir Força** - Sentinela Azul Targray, Cromwell, o Perdoador e Cais de Ninguém.
+- [x] **Emitir Força** - Sentinela Azul Targray, Cromwell, o Perdoador e Cais de Ninguém.
 - [ ] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
 - [ ] **Lança de Raio** - Licia de Lindeldt e em Pico Terroso
-- [ ] **Lança de Raio Grande** - Straid de Olaphis após a obtenção do Anel do Rei, O Poço e na Cripta dos Mortos-Vivos.
+- [x] **Lança de Raio Grande** - Straid de Olaphis após a obtenção do Anel do Rei, O Poço e na Cripta dos Mortos-Vivos.
 - [ ] **Lança de Luz Solar** - Pacto Herdeiros do Sol Rank 3 recompensa
 - [ ] **Apaziguar a Alma** - Comerciante de pedras Chloanne e Guardião do túmulo Agdayne
 - [ ] **Barreira Mágica** - Chefe de Vengarl e Felkin, o Pária.
-- [ ] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
+- [x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
 - [ ] **Regresso** - Licia de Lindeldt 
 - [ ] **Orientação** - Licia de Lindeldt 
 - [ ] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Revelar** - Straid de Olaphis
+- [x] **Revelar** - Straid de Olaphis
 - [ ] **Perseverança** - Cromwell, o Perdoador
-- [ ] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
+- [x] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
 - [ ] **Negação** - DLC Coroa do Rei Afundado
-- [ ] **Lança Fragmentável de Raio** - DLC Coroa do Rei do Marfim
+- [x] **Lança Fragmentável de Raio** - DLC Coroa do Rei do Marfim
 - [ ] **Ira dos Deuses** - Adquirido de Sentinelas Azuis Rank 2 Recompensa, Chanceler Wellager no NG++ por 8.200 almas.
 - [ ] **Luz Solar Abundante** - Adquirido de Sentinelas Azuis Rank 3 Recompensa, Chanceler Wellager no NG++ por 11.000 almas.
 - [ ] **Raio Cegante** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Piromancia
 
-- [ ] **Bola de Fogo** - Rosabeth de Melfia, Lagartos de Chamas, Baú depois Sentinela Flexível
-- [ ] **Orbe de Fogo** - Rosabeth de Melfia, Lagartos de Chamas
-- [ ] **Combustão** - Rosabeth de Melfia, Bosque do Caçador
-- [ ] **Névoa Venenosa** - Rosabeth de Melfia
-- [ ] **Suor Instantâneo** - Rosabeth de Melfia
-- [ ] **Carne de Ferro** - Rosabeth de Melfia
-- [ ] **Tormenta de Fogo** - Titchy Gren, Besouros de chifre venenosos, Castelo Drangleic
-- [ ] **Combustão Grande** - Titchy Gren, Castelo Drangleic
-- [ ] **Chicote de Fogo** - Titchy Gren, Guardiões do Sino
-- [ ] **Névoa Tóxica** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
-- [ ] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
-- [ ] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
-- [ ] **Calor** - Agdayne
+- [x] **Bola de Fogo** - Rosabeth de Melfia, Lagartos de Chamas, Baú depois Sentinela Flexível
+- [x] **Orbe de Fogo** - Rosabeth de Melfia, Lagartos de Chamas
+- [x] **Combustão** - Rosabeth de Melfia, Bosque do Caçador
+- [x] **Névoa Venenosa** - Rosabeth de Melfia
+- [x] **Suor Instantâneo** - Rosabeth de Melfia
+- [x] **Carne de Ferro** - Rosabeth de Melfia
+- [x] **Tormenta de Fogo** - Titchy Gren, Besouros de chifre venenosos, Castelo Drangleic
+- [x] **Combustão Grande** - Titchy Gren, Castelo Drangleic
+- [x] **Chicote de Fogo** - Titchy Gren, Guardiões do Sino
+- [x] **Névoa Tóxica** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
+- [x] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
+- [x] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
+- [x] **Calor** - Agdayne
 - [ ] **Bola de Fogo Grande** - Lagarto de Chamas, Brightstone Cove Tseldora
 - [ ] **Tempestade de Fogo** - Santuário de Amana,Dragões Guardiões
 - [ ] **Tempestade do Caos** - Fortaleza de Ferro
-- [ ] **Imolação** - Campanário do Sol
+- [x] **Imolação** - Campanário do Sol
 - [ ] **Sol Proibido** - Feiticeiro Real Navlaan
 - [ ] **Grande Bola de Fogo do Caos** - Irmandade de Sangue Rank 3 Recompensa, Chanceler Wellager(NG++)
-- [ ] **Serpente de Fogo** - DLC Coroa do Rei Afundado
-- [ ] **Dança de Fogo** - DLC Coroa do Rei Afundado
+- [x] **Serpente de Fogo** - DLC Coroa do Rei Afundado
+- [x] **Dança de Fogo** - DLC Coroa do Rei Afundado
 
 ## Lista de Sortilégios
 
-- [ ] **Orbe Negro** - Straid de Olaphis, Felkin, o Pária, Darkdiver Grandahl
-- [ ] **Granizo Negro** - Straid de Olaphis, Magerold de Lanafir, Darkdiver Grandahl
-- [ ] **Névoa Negra** - Straid de Olaphis, A Sarjeta
-- [ ] **Afinidade** - Straid de Olaphis, Prowler Hounds
-- [ ] **Morto Novamente** - Comerciante de Pedras Chloanne, Razorback Nightcrawlers
-- [ ] **Arma Negra** - Felkin, o Pária
-- [ ] **Sussurro de Desespero** - Túmulo de Santos
-- [ ] **Repelir** - Straid de Olaphis
-- [ ] **Barreira Retorcida** - Portas de Pharros
-- [ ] **Espada Grande Negra** - DLC Coroa do Rei Afundado
-- [ ] **Reminiscência** - DLC Coroa do Antigo Rei de Ferro
-- [ ] **Fragmentos de Vida** - Cromwell the Pardoner, The Black Gulch
-- [ ] **Tempestade Negra** - Magerold de Lanafir, Darkdiver Grandahl
-- [ ] **Alma Ressoante** - Felkin, o Pária, Pilgrims of Dark Rank 1 Recompensa
-- [ ] **Alma Ressoante Grande** - Felkin, o Pária, Pilgrims of Dark Rank 2 Recompensa
-- [ ] **Clímax** - Pilgrims of Dark Rank 3 Recompensa
-- [ ] **Carne Ressoante** - Felkin, o Pária
-- [ ] **Arma Ressoante** - Felkin, o Pária
-- [ ] **Mancha de Absorção Vital** - Straid de Olaphis
-- [ ] **Quietude Profunda** - Darkdiver Grandahl
-- [ ] **Caminhar da Paz Prometido** - DLC Coroa do Rei Afundado
-- [ ] **Dança Negra** - DLC Coroa do Rei de Marfim
-- [ ] **Torpor** - Straid de Olaphis (REQUER ALMA DE NADALIA)
+- [x] **Orbe Negro** - Straid de Olaphis, Felkin, o Pária, Darkdiver Grandahl
+- [x] **Granizo Negro** - Straid de Olaphis, Magerold de Lanafir, Darkdiver Grandahl
+- [x] **Névoa Negra** - Straid de Olaphis, A Sarjeta
+- [x] **Afinidade** - Straid de Olaphis, Prowler Hounds
+- [x] **Morto Novamente** - Comerciante de Pedras Chloanne, Razorback Nightcrawlers
+- [x] **Arma Negra** - Felkin, o Pária
+- [x] **Sussurro de Desespero** - Túmulo de Santos
+- [x] **Repelir** - Straid de Olaphis
+- [x] **Barreira Retorcida** - Portas de Pharros
+- [x] **Espada Grande Negra** - DLC Coroa do Rei Afundado
+- [x] **Reminiscência** - DLC Coroa do Antigo Rei de Ferro
+- [x] **Fragmentos de Vida** - Cromwell the Pardoner, The Black Gulch
+- [x] **Tempestade Negra** - Magerold de Lanafir, Darkdiver Grandahl
+- [x] **Alma Ressoante** - Felkin, o Pária, Pilgrims of Dark Rank 1 Recompensa
+- [x] **Alma Ressoante Grande** - Felkin, o Pária, Pilgrims of Dark Rank 2 Recompensa
+- [x] **Clímax** - Pilgrims of Dark Rank 3 Recompensa
+- [x] **Carne Ressoante** - Felkin, o Pária
+- [x] **Arma Ressoante** - Felkin, o Pária
+- [x] **Mancha de Absorção Vital** - Straid de Olaphis
+- [x] **Quietude Profunda** - Darkdiver Grandahl
+- [x] **Caminhar da Paz Prometido** - DLC Coroa do Rei Afundado
+- [x] **Dança Negra** - DLC Coroa do Rei de Marfim
+- [x] **Torpor** - Straid de Olaphis (REQUER ALMA DE NADALIA)
 
