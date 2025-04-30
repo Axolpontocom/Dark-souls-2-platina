@@ -11,36 +11,36 @@
 
 ## Lista de Feitiços
 
-- [ ] **Flecha de Almas** - Melentia, Carhillion do Aprisco, Magerold de Lanafir
-- [ ] **Flecha de Almas Grande** - Carhillion do Aprisco, Magerold de Lanafir, Floresta dos Gigantes Caídos
-- [ ] **Flecha de Almas Pesada** - Carhillion do Aprisco, Magerold de Lanafir
-- [ ] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco, Magerold de Lanafir, Pico Terroso Central
-- [ ] **Flecha de Almas Guiada** - Straid de Olaphis, Armeira Ornifex.
+- [x] **Flecha de Almas** - Melentia, Carhillion do Aprisco, Magerold de Lanafir
+- [x] **Flecha de Almas Grande** - Carhillion do Aprisco, Magerold de Lanafir, Floresta dos Gigantes Caídos
+- [x] **Flecha de Almas Pesada** - Carhillion do Aprisco, Magerold de Lanafir
+- [x] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco, Magerold de Lanafir, Pico Terroso Central
+- [x] **Flecha de Almas Guiada** - Straid de Olaphis, Armeira Ornifex.
 - [ ] **Flecha de Almas Guiada Pesada** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Massa de Almas Guiada** - Armeira Ornifex, Bosques Sombrios.	
+- [x] **Massa de Almas Guiada** - Armeira Ornifex, Bosques Sombrios.	
 - [ ] **Massa de Almas de Cristal Guiada** - Santuário de Amana depois da fogueira do Lugar de descanso de Rhoy , nas costas em um corpo após os magos.
-- [ ] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
-- [ ] **Onda de Choque** - Carhillion do Aprisco
-- [ ] **Barragem de Lanças de Almas** - Carhillion do Aprisco
-- [ ] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Espada Grande de Almas** - Castelo de Drangleic
-- [ ] **Vórtice de Almas** - Guardião da Sepultura Agdayne, O Fosso, Caverna da Pedra Luzente de Tseldora
-- [ ] **Raio de Almas** - Castelo de Drangleic
-- [ ] **Gêiser de Almas** - Fortaleza de Aldia
-- [ ] **Arma Mágica** - Carhillion do Aprisco
-- [ ] **Arma Mágica Grande** - Companhia dos Campiões Rank 1 recompensa, Feitiçeiro Real Navlaan, Ravina Negra
-- [ ] **Arma Mágica de Cristal** - Santuário do Dragão
-- [ ] **Escudo Mágico Forte** - Feitiçeiro Real Navlaan, Castelo Drangleic, Straid de Olaphis
-- [ ] **Anseio** - Carhillion do Aprisco
-- [ ] **Silêncio** - Caminho do  Azul Rank 2 recompesa, Bastilha Perdida(Muro ilusório da Sala do Chefe Sentinela da Ruína)
+- [x] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
+- [x] **Onda de Choque** - Carhillion do Aprisco
+- [x] **Barragem de Lanças de Almas** - Carhillion do Aprisco
+- [ ] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS
+- [x] **Espada Grande de Almas** - Castelo de Drangleic
+- [x] **Vórtice de Almas** - Guardião da Sepultura Agdayne, O Fosso, Caverna da Pedra Luzente de Tseldora
+- [x] **Raio de Almas** - Castelo de Drangleic
+- [x] **Gêiser de Almas** - Fortaleza de Aldia
+- [x] **Arma Mágica** - Carhillion do Aprisco
+- [x] **Arma Mágica Grande** - Companhia dos Campiões Rank 1 recompensa, Feitiçeiro Real Navlaan, Ravina Negra
+- [x] **Arma Mágica de Cristal** - Santuário do Dragão
+- [x] **Escudo Mágico Forte** - Feitiçeiro Real Navlaan, Castelo Drangleic, Straid de Olaphis
+- [x] **Anseio** - Carhillion do Aprisco
+- [x] **Silêncio** - Caminho do  Azul Rank 2 recompesa, Bastilha Perdida(Muro ilusório da Sala do Chefe Sentinela da Ruína)
 - [ ] **Controle de Queda** - Armeira Ornifex, Magerold de Lanafir
-- [ ] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompensa
-- [ ] **Reparar** - Santuário do Inverno
-- [ ] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
+- [ ] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompens
+- [x]  **Reparar** - Santuário do Inverno
+- [x] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
 - [ ] **Camaleão** - Vale da Colheita
 - [ ] **Liberar Magia** - Feitiçeiro Real Navlaan
-- [ ] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
-- [ ] **Foco de Almas** -  DLC Coroa do Rei Afundado
+- [x] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
+- [x] **Foco de Almas** -  DLC Coroa do Rei Afundado
 - [ ] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Milagres
