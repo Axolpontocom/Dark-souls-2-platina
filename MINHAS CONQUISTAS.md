@@ -18,7 +18,7 @@
 - [x] **Flecha de Almas Guiada** - Straid de Olaphis, Armeira Ornifex.
 - [x] **Flecha de Almas Guiada Pesada** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Massa de Almas Guiada** - Armeira Ornifex, Bosques Sombrios.	
-- [ ] **Massa de Almas de Cristal Guiada** - Santuário de Amana depois da fogueira do Lugar de descanso de Rhoy , nas costas em um corpo após os magos.
+- [x] **Massa de Almas de Cristal Guiada** - Santuário de Amana depois da fogueira do Lugar de descanso de Rhoy , nas costas em um corpo após os magos.
 - [x] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
 - [x] **Onda de Choque** - Carhillion do Aprisco
 - [x] **Barragem de Lanças de Almas** - Carhillion do Aprisco
