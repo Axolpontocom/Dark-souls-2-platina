@@ -49,30 +49,30 @@
 - [x] **Cura Média** - Lícia de Lindeldt
 - [x] **Trecho de Cura Avançada** - Lícia de Lindeldt
 - [x] **Cura Avançada** - Cromwell, o Perdoador e no Túmulo dos Santos
-- [ ] **Luz Solar Aliviante** - Adquirido de Lícia de Lindeldt depois de invadi-la
+- [x] **Luz Solar Aliviante** - Adquirido de Lícia de Lindeldt depois de invadi-la
 - [x] **Restauração** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [x] **Vida Resplandecente** -  Licia de Lindeldt e Straid de Olaphis
 - [x] **Oração de Carinho** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [x] **Força** - Lícia de Lindeldt e Cromwell, o Perdoador
 - [x] **Emitir Força** - Sentinela Azul Targray, Cromwell, o Perdoador e Cais de Ninguém.
-- [ ] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
+- [x] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
 - [x] **Lança de Raio** - Licia de Lindeldt e em Pico Terroso
 - [x] **Lança de Raio Grande** - Straid de Olaphis após a obtenção do Anel do Rei, O Poço e na Cripta dos Mortos-Vivos.
 - [ ] **Lança de Luz Solar** - Pacto Herdeiros do Sol Rank 3 recompensa
-- [ ] **Apaziguar a Alma** - Comerciante de pedras Chloanne e Guardião do túmulo Agdayne
-- [ ] **Barreira Mágica** - Chefe de Vengarl e Felkin, o Pária.
+- [x] **Apaziguar a Alma** - Comerciante de pedras Chloanne e Guardião do túmulo Agdayne
+- [x] **Barreira Mágica** - Chefe de Vengarl e Felkin, o Pária.
 - [x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
 - [x] **Regresso** - Licia de Lindeldt 
 - [x] **Orientação** - Licia de Lindeldt 
 - [x] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Revelar** - Straid de Olaphis
-- [ ] **Perseverança** - Cromwell, o Perdoador
+- [x] **Perseverança** - Cromwell, o Perdoador
 - [x] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
 - [ ] **Negação** - DLC Coroa do Rei Afundado
 - [x] **Lança Fragmentável de Raio** - DLC Coroa do Rei do Marfim
 - [ ] **Ira dos Deuses** - Adquirido de Sentinelas Azuis Rank 2 Recompensa, Chanceler Wellager no NG++ por 8.200 almas.
 - [ ] **Luz Solar Abundante** - Adquirido de Sentinelas Azuis Rank 3 Recompensa, Chanceler Wellager no NG++ por 11.000 almas.
-- [ ] **Raio Cegante** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x] **Raio Cegante** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Piromancia
 
