@@ -92,9 +92,9 @@
 - [x] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [x] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
 - [x] **Calor** - Agdayne
-- [ ] **Bola de Fogo Grande** - Lagarto de Chamas, Brightstone Cove Tseldora
-- [ ] **Tempestade de Fogo** - Santuário de Amana,Dragões Guardiões
-- [ ] **Tempestade do Caos** - Fortaleza de Ferro
+- [x] **Bola de Fogo Grande** - Lagarto de Chamas, Brightstone Cove Tseldora
+- [x] **Tempestade de Fogo** - Santuário de Amana,Dragões Guardiões
+- [x] **Tempestade do Caos** - Fortaleza de Ferro
 - [x] **Imolação** - Campanário do Sol
 - [ ] **Sol Proibido** - Feiticeiro Real Navlaan
 - [ ] **Grande Bola de Fogo do Caos** - Irmandade de Sangue Rank 3 Recompensa, Chanceler Wellager(NG++)
