@@ -68,7 +68,7 @@
 - [x] **Revelar** - Straid de Olaphis
 - [x] **Perseverança** - Cromwell, o Perdoador
 - [x] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
-- [ ] **Negação** - DLC Coroa do Rei Afundado
+- [x] **Negação** - DLC Coroa do Rei Afundado
 - [x] **Lança Fragmentável de Raio** - DLC Coroa do Rei do Marfim
 - [ ] **Ira dos Deuses** - Adquirido de Sentinelas Azuis Rank 2 Recompensa, Chanceler Wellager no NG++ por 8.200 almas.
 - [ ] **Luz Solar Abundante** - Adquirido de Sentinelas Azuis Rank 3 Recompensa, Chanceler Wellager no NG++ por 11.000 almas.
